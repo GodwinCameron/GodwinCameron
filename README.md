@@ -7,19 +7,15 @@
 
 
 ## 🛰️ Check out these repos!
-<div>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodwinCameron&repo=JARVIS-JR&theme=highcontrast" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodwinCameron&repo=AstroCrafter&theme=highcontrast" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bladeyboy54&repo=Elementium-frontend&theme=highcontrast" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodwinCameron&repo=CompNation&theme=highcontrast" />
-  </p>
-</div>
+
+| J.A.R.V.I.S.JR | AstroCrafter | Elementium | CompNation |
+|--------|--------|--------|--------|
+| <a href="https://github.com/GodwinCameron/JARVIS-JR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GodwinCameron&repo=JARVIS-JR&theme=highcontrast" /></a> | <a href="https://github.com/GodwinCameron/AstroCrafter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GodwinCameron&repo=AstroCrafter&theme=highcontrast" /></a> | <a href="https://github.com/Bladeyboy54/Elementium-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bladeyboy54&repo=Elementium-frontend&theme=highcontrast" /></a> | <a href="https://github.com/GodwinCameron/CompNation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GodwinCameron&repo=CompNation&theme=highcontrast" /></a> |
 
 
 ## 🛸 My GitHub Statistics
 <div>
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=GodwinCameron&show_icons=true&theme=highcontrast" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodwinCameron&layout=donut&theme=highcontrast" height="165" />
   </p>
